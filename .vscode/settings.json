@@ -1,0 +1,5 @@
+{
+    "yaml.schemas": {
+        "https://raw.githubusercontent.com/microsoft/azure-pipelines-vscode/master/service-schema.json": "file:///d%3A/repo/azure_stuff/devops_training/3-build-pipeline/mslearn-tailspin-spacegame-web/templates/build.yml"
+    }
+}
